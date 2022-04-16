@@ -1,0 +1,96 @@
+body {
+  background-color:  hsl(217, 54%, 11%);
+}
+
+hr {
+  border-top: 5px default;
+  border-left: 1px;
+  border-right: 1px;
+  border-bottom: 5px;
+  margin: auto;
+  width: 242px;
+}
+
+.box {
+  background-color:  hsl(216, 50%, 16%);
+  border-radius: 20px;
+  height: 500px;
+  width: 272px;
+  margin: 20px auto auto auto;
+}
+
+.eth {
+  border-radius: 20px;
+  height: 50%;
+  margin: 10px 20px 0 11px;
+
+}
+
+.text-img {
+  color: hsl(0, 0%, 100%);
+  font-size: 18px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.text-img2 {
+  color: hsl(215, 51%, 70%);
+  font-size: 14px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 300;
+  margin-left: 10px;
+}
+
+.first-icons {
+  height: 40px;
+  width: 272px;
+}
+
+.second-icons {
+  height: 90px;
+}
+
+.first {
+  color: hsl(178, 100%, 50%);
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 80px;
+}
+
+.second {
+  color: hsl(215, 51%, 70%);
+  font-size: 15px;
+}
+
+.third {
+  margin-right: 2px;
+}
+
+.seperate-text1 {
+ color: hsl(215, 51%, 70%);
+ margin-right: 2px;
+}
+
+.seperate-text2 {
+  color: hsl(0, 0%, 100%);
+}
+
+.eth-icon {
+  height: 30%;
+}
+
+.clock-icon {
+  height: 31%;
+}
+
+.avatar-icon {
+  height: 40%;
+  margin-left: 10px;
+  margin-right: 4px;
+  margin-top: 15px;
+}
+
+.attribution {
+  margin-top: 10px;
+}
